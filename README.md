@@ -1,27 +1,21 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 #  BMI Calculator
 
-## Our Goal
+Using MVC design pattern to build a Body Mass Index calculator APP in Swift with Xcode.
 
-The goal of this tutorial is to learn more about Optionals, solidify your understanding of the MVC design pattern and to introduce the concept of Classes. We’ll compare objects created from classes with instances of Structs that we learnt about earlier. 
 
-## What you will create
+## Prerequisite
+* Xcode 14.3.1
 
-By the end of the module, you will have made a Body Mass Index calculator. Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies. 
+## GUI
+<img width="679" alt="Screenshot 2023-07-23 at 3 06 53 AM" src="https://github.com/YinxuanY/Unity_VR_RobotTour_Game/assets/140264760/6b619ee8-f1cb-44c8-9d0d-246576e28c2d">
 
-## What you will learn
+https://github.com/YinxuanY/Unity_VR_RobotTour_Game/assets/140264760/87dfdbe9-c2c8-4a3f-ad6f-bed9b817e917
 
-* How to create multi-screen apps with animated navigation.
+
+# Hightlight
+* Multi-screen apps with animated navigation.
 * Optional binding, optional chaining and the nil coalescing operator.
-* How to create classes and difference between classes and structs. 
-* Pass by value vs. pass by reference. 
-* Formatting Strings. 
 * Color literals.
 
-
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
